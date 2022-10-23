@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e50236c-4262-4146-b39b-91f046822aef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="258PKTIK51GQh4eHx7tvfuTjLQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/bg" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/bg" />
+      <recent name="$PROJECT_DIR$/assets/img/blog" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e50236c-4262-4146-b39b-91f046822aef" name="Default Changelist" comment="" />
+      <created>1644905676182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644905676182</updated>
+      <workItem from="1644905680310" duration="2775000" />
+      <workItem from="1645423575804" duration="5459000" />
+      <workItem from="1646204956903" duration="10962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="147" width="831" height="605" key="find.popup" timestamp="1646214246732">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="304" y="147" width="831" height="605" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1646214246732" />
+    <state x="304" y="159" width="831" height="550" key="find.popup/1440.25.1920.1055/0.25.1440.819@0.25.1440.819" timestamp="1645424174886" />
+  </component>
+</project>
